@@ -6,6 +6,7 @@ import {
   fetchWeatherFailure,
 } from "./features/weatherSclice.js";
 import { fetchWeatherByCity } from "./Api/weatherApi.js";
+import SearchBar from "./components/SearchBar.jsx";
 
 const Weather = () => {
   const [city, setCity] = useState("");
@@ -27,6 +28,7 @@ const Weather = () => {
   return (
     <div style={{ textAlign: "center", marginTop: "2rem" }}>
       <h2>Weather App</h2>
+      <SearchBar />
       <input
         type="text"
         placeholder="Enter city"
