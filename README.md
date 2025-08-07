@@ -23,4 +23,4 @@ Material UI (MUI) – React UI framework for clean and consistent components
 
 OpenWeatherMap API – For fetching live weather data
 
-![app interface]("/image.png")
+![app interface]("https://github.com/noorainsk14/WeatherApp/blob/main/image.png")
