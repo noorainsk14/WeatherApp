@@ -22,3 +22,5 @@ Redux – Centralized state management
 Material UI (MUI) – React UI framework for clean and consistent components
 
 OpenWeatherMap API – For fetching live weather data
+
+![app interface]("/image.png")
